@@ -1,0 +1,35 @@
+_repo: The-Thunder-Bird_14486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: What happens when the hardscrabble cowboys of the Wild West are introduced
+  to the latest in twentieth-century technology? In some cases, they take to the sky
+  as the daring pilots who are preparing the country to go to war. The Thunder Bird
+  is the sequel to B. M. Bower's earlier novel Skyrider, and it packs in just as much
+  aerial excitement as its predecessor.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2004-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Air pilots -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Thunder Bird
+url: http://www.gutenberg.org/ebooks/14486
